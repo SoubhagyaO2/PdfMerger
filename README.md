@@ -24,6 +24,12 @@ This is a great beginner-level Python project showcasing practical scripting, us
 - Python 3.x  
 - PyPDF2 library  
 
+📄 Author
+Soubhagya Yashvardhan
+📧 https://www.linkedin.com/in/soubhagya-yashvardhan-19514634a/
+
 To install PyPDF2:
 ```bash
 pip install PyPDF2
+
+
